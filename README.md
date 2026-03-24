@@ -1,4 +1,5 @@
 <h1 align="center">Hello Everynyan, How are you?, i'm fine thank you!👋, I'm Yousuf Ahmed</h1>
+<h1 align="center">I'm Yousuf Ahmed</h1>
 <h3 align="center">An MSCI Computer Science Student at the University of Exeter</h3>
 
 <p align="center">
